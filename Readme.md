@@ -35,8 +35,6 @@ We aimed to train a predictive model with the following parameters - Identifying
 |:-------------------------------------------:|:-------------------------------------------:|
 | ![hourly_engagement_ctr](./data_eval_src/image%20copy.png)| ![location_users_ctr](./data_eval_src/image%20copy%203.png)|
 | ![top_devices_distr](./data_eval_src/image%20copy%204.png) | ![potential_customer_ctr](./data_eval_src/potential_customer_ctr.jpg)|
-|![absolute_log_mean](./task-3/src/absolute_log_mean.jpg) | ![cum_sums_per](./task-3/src/cum_sums_per.jpg)|
-| ![cum_sums_per_fea](./task-3/src/cum_sums_per_fea.jpg)| ![cumson](./task-3/src/cumson.jpg)|
 
 ---
 
